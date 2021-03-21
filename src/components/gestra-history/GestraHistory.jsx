@@ -37,7 +37,7 @@ function GestraHistory() {
                     <ListElementIcon>{t('History.target3')}</ListElementIcon>
                 </ListElement>
             </List>
-            <Text centered={false}>{t('History.title2')}</Text>
+            <Text centered={true}>{t('History.title2')}</Text>
             <HistoryWrapper>
                 {
                     (new Array(18).fill(null)).map((value, index) => {
