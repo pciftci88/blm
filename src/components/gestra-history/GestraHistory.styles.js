@@ -94,10 +94,6 @@ export const Text = styled.p`
     line-height: 24px;
 `;
 
-export const HistoryWrapper = styled.div`
-
-`;
-
 export const HistoryElement = styled.div`
     display: flex;
     flex-direction: column;
@@ -117,4 +113,14 @@ export const HistoryElementYear = styled.h3`
 
 export const HistoryElementText = styled.p`
     text-align: center;
+`;
+
+export const GestraLogoWrapper = styled.div`
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+`;
+
+export const GestraLogo = styled.img`
+    max-width: 300px;
 `;
