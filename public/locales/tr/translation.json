@@ -95,5 +95,89 @@
     "Partner": {
         "title": "Yetkili distribütörü",
         "text": "HESCH INDUSTRIETECHNIK GMBH şirketinin Türkiye'deki resmi yetkili distribütörü."
+    },
+    "History": {
+        "title": "GESTRA hikayesi",
+        "subTitle": "100 YILI AŞKIN GESTRA - GELECEĞİN YÖNETİMİ",
+        "text": "Gustav Friedrich Gerdts, 29 Ekim 1902'de şirketini kurduğunda sanayi çağı yeni başlamıştı. Hiçbir maddi imkânı olmayan genç bir yabancı olarak başladı, ancak birçok yeni fikri vardı.",
+        "targetsTitle": "Gustav Friedrich Gerdts, yeni şirketinin hedeflerinin şunlar olması gerektiğine karar verdi:",
+        "target1": "Endüstride buhar ve enerji tasarrufunun optimizasyonu",
+        "target2": "Operasyonel emniyette artış",
+        "target3": "Etkili yoğuşma suyu drenajı",
+        "title2": "100 yıl sonra, bugün hala en yüksek önceliğe sahip olan hedefler.",
+        "hierarchy": {
+            "1": {
+                "year": "1902",
+                "text": "Bremen'de şirketin kuruluşu"
+            },
+            "2": {
+                "year": "1907",
+                "text": "Gustav F. Gerdts KG olarak yeniden adlandırma"
+            },
+            "3": {
+                "year": "1951",
+                "text": "TECHNOVA üretim tesisleri kuruldu"
+            },
+            "4": {
+                "year": "1956",
+                "text": "Fransa'da ilk yan kuruluşun kuruluşu"
+            },
+            "5": {
+                "year": "1957",
+                "text": "İspanya'da yan kuruluşun kuruluşu"
+            },
+            "6": {
+                "year": "1961",
+                "text": "İngiltere, İtalya ve Brezilya'da başka yan kuruluşların kurulması"
+            },
+            "7": {
+                "year": "1962",
+                "text": "Gustav F. Gerdts GmbH & Co. KG"
+            },
+            "8": {
+                "year": "1968",
+                "text": "GESTRA KSB Vertriebsgesellschaft"
+            },
+            "9": {
+                "year": "1976",
+                "text": "ABD'de GESTRA Inc. kuruldu"
+            },
+            "10": {
+                "year": "1983",
+                "text": "GESTRA AG'ye Dönüşüm"
+            },
+            "11": {
+                "year": "1988",
+                "text": "SIEBE PLC'ye dahil edildi."
+            },
+            "12": {
+                "year": "1994",
+                "text": "UNIVAM GmbH kuruldu"
+            },
+            "13": {
+                "year": "1995",
+                "text": "P&W vana ve regülatör servisi GmbH'nin kuruluşu"
+            },
+            "14": {
+                "year": "1997",
+                "text": "GESTRA GmbH'ya Dönüşüm"
+            },
+            "15": {
+                "year": "1999",
+                "text": "GESTRA & INVENSYS plc."
+            },
+            "16": {
+                "year": "2002",
+                "text": "FLOWSERVE'e dahil etme"
+            },
+            "17": {
+                "year": "2004",
+                "text": "GESTRA AG'ye Dönüşüm"
+            },
+            "18": {
+                "year": "2017",
+                "text": "Spirax Sarco Engineering plc'ye dahil edildi."
+            }
+        }
     }
 }

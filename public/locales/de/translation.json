@@ -96,5 +96,89 @@
     "Partner": {
         "title": "Offizieller Partner",
         "text": "Offizieller Vertriebspartner in der Türkei für die Firma HESCH INDUSTRIETECHNIK GMBH."
+    },
+    "History": {
+        "title": "GESTRA Geschichte",
+        "subTitle": "Über 100 Jahre Gestra - Kopf für die Zukunft",
+        "text": "Das Industriezeitalter hatte gerade begonnen, als Gustav Friedrich Gerdts am 29. Oktober 1902 sein Unternehmen gründete. Er begann als junger Unbekannter ohne finanzielle Mittel, hatte aber viele neue Ideen.",
+        "targetsTitle": "Gustav Friedrich Gerdts entschied, dass die Ziele seines neuen Unternehmens sein müssen:",
+        "target1": "Optimierung der Dampf- und Energieeinsparung in der Industrie",
+        "target2": "Erhöhung der Betriebssicherheit",
+        "target3": "Effiziente Kondensatableitung",
+        "title2": "Ziele, die auch heute, über 100 Jahre später, höchste Priorität haben.",
+        "hierarchy": {
+            "1": {
+                "year": "1902",
+                "text": "Gründung der Firma in Bremen"
+            },
+            "2": {
+                "year": "1907",
+                "text": "Umbenennung in Gustav F. Gerdts KG"
+            },
+            "3": {
+                "year": "1951",
+                "text": "Gründung von Produktionsanlagen TECHNOVA"
+            },
+            "4": {
+                "year": "1956",
+                "text": "Gründung der ersten Tochtergesellschaft in Frankreich"
+            },
+            "5": {
+                "year": "1957",
+                "text": "Gründung der Tochtergesellschaft in Spanien"
+            },
+            "6": {
+                "year": "1961",
+                "text": "Gründung weiterer Tochtergesellschaften in England, Italien und Brasilien"
+            },
+            "7": {
+                "year": "1962",
+                "text": "Gustav F. Gerdts GmbH & Co. KG"
+            },
+            "8": {
+                "year": "1968",
+                "text": "GESTRA KSB Vertriebsgesellschaft"
+            },
+            "9": {
+                "year": "1976",
+                "text": "Gründung von GESTRA Inc. in den USA"
+            },
+            "10": {
+                "year": "1983",
+                "text": "Umwandlung in die GESTRA AG"
+            },
+            "11": {
+                "year": "1988",
+                "text": "Eingliederung in die SIEBE PLC."
+            },
+            "12": {
+                "year": "1994",
+                "text": "Gründung der UNIVAM GmbH"
+            },
+            "13": {
+                "year": "1995",
+                "text": "Gründung der P & W Ventil- und Regler-Service GmbH"
+            },
+            "14": {
+                "year": "1997",
+                "text": "Umwandlung in die GESTRA GmbH"
+            },
+            "15": {
+                "year": "1999",
+                "text": "GESTRA & INVENSYS plc."
+            },
+            "16": {
+                "year": "2002",
+                "text": "Eingliederung in FLOWSERVE"
+            },
+            "17": {
+                "year": "2004",
+                "text": "Umwandlung in die GESTRA AG"
+            },
+            "18": {
+                "year": "2017",
+                "text": "Eingliederung in Spirax Sarco Engineering plc."
+            }
+        }
     }
 }
