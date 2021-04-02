@@ -43,7 +43,7 @@ function Impressum() {
                     </NamesParagraph>
                     <NamesParagraph>
                         <strong>{t('Imprint.programming')}:</strong>&nbsp;Philipp Çiftçi
-                        <a href='https://www.linkedin.com/in/philipp-ciftci-b14538182/' target='_blank' rel='noopener noreferrer'>
+                        <a href='https://www.linkedin.com/in/philipp-ciftci-geb-deinert-b14538182/' target='_blank' rel='noopener noreferrer'>
                             <img src={linkedInLogo} alt='LinkedIn Philipp Ciftci' />
                         </a>
                     </NamesParagraph>
