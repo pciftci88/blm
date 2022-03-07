@@ -1,183 +1,185 @@
 {
-    "Nav": {
-        "home": "Anasayfa",
-        "products": "Ürünler",
-        "brands": "Üreticiler",
-        "imprint": "Iletişim",
-        "about": "Hakkımızda"
+  "Nav": {
+    "home": "Anasayfa",
+    "products": "Ürünler",
+    "brands": "Üreticiler",
+    "imprint": "Iletişim",
+    "about": "Hakkımızda"
+  },
+  "About": {
+    "title": "BLM International Mühendislik şirketi",
+    "subtitle": "Kalite, güvenlik ve paranızın tam karşılığı.",
+    "1": "İlgili üreticilerin endüstrisindeki ürünlerin ve yedek parçaların mevcudiyeti ve endüstriyel ortamdaki görevlerinizle bağlantılı olarak size sunduğumuz kapsamlı bilgi.",
+    "2": "Faaliyetimiz, üreticiden bağımsız tavsiye ve endüstriyel tesis teknolojisinin teslimatını ve bu alan için çeşitli yedek parçaları içermektedir. Zengin deneyimimiz endüstriyel çözümlerin geliştirilmesine kadar uzanmaktadır.",
+    "3": "Uzun yıllara dayanan deneyimimiz ve uzmanlığımız sayesinde ihtiyaçlarınızı biliyoruz ve teknik olarak en uygun çözümü buluyoruz, böylece verimliliğinizi artırabilir ve maliyetleri düşürebilirsiniz."
+  },
+  "AboutFooter": {
+    "1": "BLM International Mühendislik yedek parça ve makine tedariğinde uzmanlaşmıştır.",
+    "2": "Ürünlerimiz tüm dünyada sanayi sektörü içindir.",
+    "3": "İhtiyaçlarınıza bağlı olarak size yedek parça veya yeni ürünler sağlayabiliriz.",
+    "4": "Ürün yelpazemizde hidrolik, pnömatik veya otomasyon ürünleri bulacaksınız."
+  },
+  "Imprint": {
+    "address": "Adres",
+    "contact": "Iletişim",
+    "opening": "Çalışma Saatleri Pazartesi-Cuma 9:00 - 18:00.",
+    "director": "Şirket kurucusu",
+    "programming": "Programlama"
+  },
+  "Copyright": {
+    "1": "Alle Inhalte unterliegen unserem Copyright."
+  },
+  "Offertext": {
+    "1": "Teklif isteyin",
+    "2": "Şimdi Sor"
+  },
+  "Teaser": {
+    "products": "Ürün Grupları",
+    "brands": "Markalar",
+    "imprint": "Impressum",
+    "about": "Hakımızda",
+    "contact": "Iletişim"
+  },
+  "Products": {
+    "title": "Ürünlerimiz",
+    "brands": "Markalar",
+    "hydraulics": "Hidrolik Ürünler",
+    "pneumatics": "Pnömatik Ürünler",
+    "automation": "Otomasyon Ürünler",
+    "motorspumps": "Motor & Pompalar",
+    "motors": "Motorlar",
+    "pumps": "Pompalar",
+    "examples": {
+      "hydraulics": {
+        "0": "Pompalar ve Motorlar",
+        "1": "Filtreler",
+        "2": "silindirler ve valfler",
+        "3": "Güç kaynağı birimleri",
+        "4": "Deniz ve mobil hidrolik sistemler",
+        "5": "Çeşitli sistemler",
+        "6": "akümülatörler",
+        "7": "Yağlama sistemleri"
+      },
+      "pneumatics": {
+        "0": "Oransal valfler, tutucular",
+        "1": "silindirler ve valfler",
+        "2": "Hava amplifikatörü, gaz güçlendirici",
+        "3": "Titreşimli konveyör",
+        "4": "Sıvı pompaları",
+        "5": "konveyör sistemleri",
+        "6": "Yüksek basınçlı bağlantı parçaları",
+        "7": "Solenoid valfler"
+      },
+      "automation": {
+        "0": "sensörler",
+        "1": "Programlanabilir kontroller",
+        "2": "Zamanlayıcılar ve sayaçlar",
+        "3": "Anahtarlar ve denetleyiciler",
+        "4": "Servo ve step motorlar",
+        "5": "AC / DC sürücüler ve motorlar",
+        "6": "Konumlandırma sistemleri",
+        "7": "Hareket sensörleri ve kontrolörler",
+        "8": "Doğrusal ve açısal hareket ürünleri",
+        "9": "Devre koruma cihazları",
+        "10": "Emniyet rölesi"
+      }
     },
-    "About": {
-        "title": "BLM International Mühendislik şirketi",
-        "subtitle": "Kalite, güvenlik ve paranızın tam karşılığı.",
-        "1": "İlgili üreticilerin endüstrisindeki ürünlerin ve yedek parçaların mevcudiyeti ve endüstriyel ortamdaki görevlerinizle bağlantılı olarak size sunduğumuz kapsamlı bilgi.",
-        "2": "Faaliyetimiz, üreticiden bağımsız tavsiye ve endüstriyel tesis teknolojisinin teslimatını ve bu alan için çeşitli yedek parçaları içermektedir. Zengin deneyimimiz endüstriyel çözümlerin geliştirilmesine kadar uzanmaktadır.",
-        "3": "Uzun yıllara dayanan deneyimimiz ve uzmanlığımız sayesinde ihtiyaçlarınızı biliyoruz ve teknik olarak en uygun çözümü buluyoruz, böylece verimliliğinizi artırabilir ve maliyetleri düşürebilirsiniz."
-    },
-    "AboutFooter": {
-        "1": "BLM International Mühendislik yedek parça ve makine tedariğinde uzmanlaşmıştır.",
-        "2": "Ürünlerimiz tüm dünyada sanayi sektörü içindir.",
-        "3": "İhtiyaçlarınıza bağlı olarak size yedek parça veya yeni ürünler sağlayabiliriz.",
-        "4": "Ürün yelpazemizde hidrolik, pnömatik veya otomasyon ürünleri bulacaksınız."
-    },
-    "Imprint": {
-        "address": "Adres",
-        "contact": "Iletişim",
-        "opening": "Çalışma Saatleri Pazartesi-Cuma 9:00 - 18:00.",
-        "director": "Şirket kurucusu",
-        "programming": "Programlama"
-    },
-    "Copyright": {
-        "1": "Alle Inhalte unterliegen unserem Copyright."
-    },
-    "Offertext": {
-        "1": "Teklif isteyin",
-        "2": "Şimdi Sor"
-    },
-    "Teaser": {
-        "products": "Ürün Grupları",
-        "brands": "Markalar",
-        "imprint": "Impressum",
-        "about": "Hakımızda",
-        "contact": "Iletişim"
-    },
-    "Products": {
-        "title": "Ürünlerimiz",
-        "brands": "Markalar",
-        "hydraulics": "Hidrolik Ürünler",
-        "pneumatics": "Pnömatik Ürünler",
-        "automation": "Otomasyon Ürünler",
-        "motorspumps": "Motor & Pompalar",
-        "motors": "Motorlar",
-        "pumps": "Pompalar",
-        "examples": {
-            "hydraulics": {
-                "0": "Pompalar ve Motorlar",
-                "1": "Filtreler",
-                "2": "silindirler ve valfler",
-                "3": "Güç kaynağı birimleri",
-                "4": "Deniz ve mobil hidrolik sistemler",
-                "5": "Çeşitli sistemler",
-                "6": "akümülatörler",
-                "7": "Yağlama sistemleri"
-            },
-            "pneumatics": {
-                "0": "Oransal valfler, tutucular",
-                "1": "silindirler ve valfler",
-                "2": "Hava amplifikatörü, gaz güçlendirici",
-                "3": "Titreşimli konveyör",
-                "4": "Sıvı pompaları",
-                "5": "konveyör sistemleri",
-                "6": "Yüksek basınçlı bağlantı parçaları",
-                "7": "Solenoid valfler"
-            },
-            "automation": {
-                "0": "sensörler",
-                "1": "Programlanabilir kontroller",
-                "2": "Zamanlayıcılar ve sayaçlar",
-                "3": "Anahtarlar ve denetleyiciler",
-                "4": "Servo ve step motorlar",
-                "5": "AC / DC sürücüler ve motorlar",
-                "6": "Konumlandırma sistemleri",
-                "7": "Hareket sensörleri ve kontrolörler",
-                "8": "Doğrusal ve açısal hareket ürünleri",
-                "9": "Devre koruma cihazları",
-                "10": "Emniyet rölesi"
-            }
-        }
-    },
-    "Brandslider": {
-        "title": " Markalarımız"
-    },
-    "ProductList": {
-        "title": "Ürün listesi",
-        "tableColumnProductSupplier": "Tedarikçi / Ürün"
-    },
-    "Partner": {
-        "title": "Yetkili distribütörü",
-        "text": "HESCH INDUSTRIETECHNIK GMBH şirketinin Türkiye'deki resmi yetkili distribütörü."
-    },
-    "History": {
-        "title": "GESTRA hikayesi",
-        "subTitle": "100 YILI AŞKIN GESTRA - GELECEĞİN YÖNETİMİ",
-        "text": "Gustav Friedrich Gerdts, 29 Ekim 1902'de şirketini kurduğunda sanayi çağı yeni başlamıştı. Hiçbir maddi imkânı olmayan genç bir yabancı olarak başladı, ancak birçok yeni fikri vardı.",
-        "targetsTitle": "Gustav Friedrich Gerdts, yeni şirketinin hedeflerinin şunlar olması gerektiğine karar verdi:",
-        "target1": "Endüstride buhar ve enerji tasarrufunun optimizasyonu",
-        "target2": "Operasyonel emniyette artış",
-        "target3": "Etkili yoğuşma suyu drenajı",
-        "title2": "100 yıl sonra, bugün hala en yüksek önceliğe sahip olan hedefler.",
-        "hierarchy": {
-            "1": {
-                "year": "1902",
-                "text": "Bremen'de şirketin kuruluşu"
-            },
-            "2": {
-                "year": "1907",
-                "text": "Gustav F. Gerdts KG olarak yeniden adlandırma"
-            },
-            "3": {
-                "year": "1951",
-                "text": "TECHNOVA üretim tesisleri kuruldu"
-            },
-            "4": {
-                "year": "1956",
-                "text": "Fransa'da ilk yan kuruluşun kuruluşu"
-            },
-            "5": {
-                "year": "1957",
-                "text": "İspanya'da yan kuruluşun kuruluşu"
-            },
-            "6": {
-                "year": "1961",
-                "text": "İngiltere, İtalya ve Brezilya'da başka yan kuruluşların kurulması"
-            },
-            "7": {
-                "year": "1962",
-                "text": "Gustav F. Gerdts GmbH & Co. KG"
-            },
-            "8": {
-                "year": "1968",
-                "text": "GESTRA KSB Vertriebsgesellschaft"
-            },
-            "9": {
-                "year": "1976",
-                "text": "ABD'de GESTRA Inc. kuruldu"
-            },
-            "10": {
-                "year": "1983",
-                "text": "GESTRA AG'ye Dönüşüm"
-            },
-            "11": {
-                "year": "1988",
-                "text": "SIEBE PLC'ye dahil edildi."
-            },
-            "12": {
-                "year": "1994",
-                "text": "UNIVAM GmbH kuruldu"
-            },
-            "13": {
-                "year": "1995",
-                "text": "P&W vana ve regülatör servisi GmbH'nin kuruluşu"
-            },
-            "14": {
-                "year": "1997",
-                "text": "GESTRA GmbH'ya Dönüşüm"
-            },
-            "15": {
-                "year": "1999",
-                "text": "GESTRA & INVENSYS plc."
-            },
-            "16": {
-                "year": "2002",
-                "text": "FLOWSERVE'e dahil etme"
-            },
-            "17": {
-                "year": "2004",
-                "text": "GESTRA AG'ye Dönüşüm"
-            },
-            "18": {
-                "year": "2017",
-                "text": "Spirax Sarco Engineering plc'ye dahil edildi."
-            }
-        }
+    "more": "Tüm ürünler için",
+    "moreButton": "Buraya tıkla"
+  },
+  "Brandslider": {
+    "title": " Markalarımız"
+  },
+  "ProductList": {
+    "title": "Ürün listesi",
+    "tableColumnProductSupplier": "Tedarikçi / Ürün"
+  },
+  "Partner": {
+    "title": "Yetkili distribütörü",
+    "text": "HESCH INDUSTRIETECHNIK GMBH şirketinin Türkiye'deki resmi yetkili distribütörü."
+  },
+  "History": {
+    "title": "GESTRA hikayesi",
+    "subTitle": "100 YILI AŞKIN GESTRA - GELECEĞİN YÖNETİMİ",
+    "text": "Gustav Friedrich Gerdts, 29 Ekim 1902'de şirketini kurduğunda sanayi çağı yeni başlamıştı. Hiçbir maddi imkânı olmayan genç bir yabancı olarak başladı, ancak birçok yeni fikri vardı.",
+    "targetsTitle": "Gustav Friedrich Gerdts, yeni şirketinin hedeflerinin şunlar olması gerektiğine karar verdi:",
+    "target1": "Endüstride buhar ve enerji tasarrufunun optimizasyonu",
+    "target2": "Operasyonel emniyette artış",
+    "target3": "Etkili yoğuşma suyu drenajı",
+    "title2": "100 yıl sonra, bugün hala en yüksek önceliğe sahip olan hedefler.",
+    "hierarchy": {
+      "1": {
+        "year": "1902",
+        "text": "Bremen'de şirketin kuruluşu"
+      },
+      "2": {
+        "year": "1907",
+        "text": "Gustav F. Gerdts KG olarak yeniden adlandırma"
+      },
+      "3": {
+        "year": "1951",
+        "text": "TECHNOVA üretim tesisleri kuruldu"
+      },
+      "4": {
+        "year": "1956",
+        "text": "Fransa'da ilk yan kuruluşun kuruluşu"
+      },
+      "5": {
+        "year": "1957",
+        "text": "İspanya'da yan kuruluşun kuruluşu"
+      },
+      "6": {
+        "year": "1961",
+        "text": "İngiltere, İtalya ve Brezilya'da başka yan kuruluşların kurulması"
+      },
+      "7": {
+        "year": "1962",
+        "text": "Gustav F. Gerdts GmbH & Co. KG"
+      },
+      "8": {
+        "year": "1968",
+        "text": "GESTRA KSB Vertriebsgesellschaft"
+      },
+      "9": {
+        "year": "1976",
+        "text": "ABD'de GESTRA Inc. kuruldu"
+      },
+      "10": {
+        "year": "1983",
+        "text": "GESTRA AG'ye Dönüşüm"
+      },
+      "11": {
+        "year": "1988",
+        "text": "SIEBE PLC'ye dahil edildi."
+      },
+      "12": {
+        "year": "1994",
+        "text": "UNIVAM GmbH kuruldu"
+      },
+      "13": {
+        "year": "1995",
+        "text": "P&W vana ve regülatör servisi GmbH'nin kuruluşu"
+      },
+      "14": {
+        "year": "1997",
+        "text": "GESTRA GmbH'ya Dönüşüm"
+      },
+      "15": {
+        "year": "1999",
+        "text": "GESTRA & INVENSYS plc."
+      },
+      "16": {
+        "year": "2002",
+        "text": "FLOWSERVE'e dahil etme"
+      },
+      "17": {
+        "year": "2004",
+        "text": "GESTRA AG'ye Dönüşüm"
+      },
+      "18": {
+        "year": "2017",
+        "text": "Spirax Sarco Engineering plc'ye dahil edildi."
+      }
     }
+  }
 }
