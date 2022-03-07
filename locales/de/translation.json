@@ -1,184 +1,186 @@
 {
-    "Nav": {
-        "home": "Home",
-        "products": "Produkte",
-        "brands": "Marken",
-        "imprint": "Impressum",
-        "about": "Über uns"
+  "Nav": {
+    "home": "Home",
+    "products": "Produkte",
+    "brands": "Marken",
+    "imprint": "Impressum",
+    "about": "Über uns"
+  },
+  "About": {
+    "title": "Die Firma BLM International Mühendislik",
+    "subtitle": "Qualität, Sicherheit und ein gutes Preis-Leistungs-Verhältnis.",
+    "1": "Verfügbarkeit von Produkten und Ersatzteilen in der Branche relevanter Hersteller sowie für umfangreiches Wissen, das wir Ihnen in Zusammenhang mit Ihren Aufgabenstellungen im industriellen Umfeld zur Verfügung stellen.",
+    "2": "Unsere Tätigkeit umfasst das Hersteller unabhängige Beraten und Liefern industrieller Anlagentechnik, sowie eine Vielfalt an Ersatzteilen für diesen Bereich. Dabei reicht unser Erfahrungsschatz bis in die Entwicklungen von industriellen Lösungen.",
+    "3": "Aus unserer langjährigen Erfahrung und Expertise heraus kennen wir Ihren Bedarf und finden die technisch optimalste Lösung, so dass Sie Ihre Effizienz steigern und Kosten senken können."
+  },
+  "AboutFooter": {
+    "1": "BLM International Mühendislik spezialisiert sich auf die Lieferung von Ersatzteilen und Maschinen.",
+    "2": "Unsere Produkte sind für den Industriebereich in aller Welt.",
+    "3": "Bei uns erhalten Sie Ersatzteile oder Neuprodukte, je nach Bedarf.",
+    "4": "In unserem Sortimen finden Sie Hydraulik, Pneumatik oder Automatisierungsprodukte."
+  },
+  "Imprint": {
+    "address": "Adresse",
+    "contact": "Kontakt",
+    "opening": "Sie erreichen unseren Kundenservice montags bis freitags von 9:00 Uhr bis 18:00 Uhr.",
+    "director": "Geschäftsführung",
+    "programming": "Programmierung",
+    "country": "Türkei"
+  },
+  "Copyright": {
+    "1": "Alle Inhalte unterliegen unserem Copyright."
+  },
+  "Offertext": {
+    "1": "Angebot anfordern",
+    "2": "Jetzt anfragen"
+  },
+  "Teaser": {
+    "products": "Produktübersicht",
+    "brands": "Markenübersicht",
+    "imprint": "Impressum",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "Products": {
+    "title": "Unsere Produkte",
+    "brands": "Marken",
+    "hydraulics": "Hydraulikprodukte",
+    "pneumatics": "Pneumatikprodukte",
+    "automation": "Automatisierungsprodukte",
+    "motorspumps": "Motoren & Pumpen",
+    "motors": "Motoren",
+    "pumps": "Pumpen",
+    "examples": {
+      "hydraulics": {
+        "0": "Pumpen und Motoren",
+        "1": "Filter",
+        "2": "Zylinder und Ventile",
+        "3": "Stromversorgungseinheiten",
+        "4": "Marine- und Mobilhydrauliksysteme",
+        "5": "Vielfältige Systeme",
+        "6": "Akkumulatoren",
+        "7": "Schmiersysteme"
+      },
+      "pneumatics": {
+        "0": "Proportionalventile, Greifer",
+        "1": "Zylinder und Ventile",
+        "2": "Luftverstärker, Gasbooster",
+        "3": "Vibrationsförderer",
+        "4": "Flüssigkeitspumpen",
+        "5": "Fördersysteme",
+        "6": "Hochdruckarmaturen",
+        "7": "Magnetventile"
+      },
+      "automation": {
+        "0": "Sensoren",
+        "1": "Programmierbare Steuerungen",
+        "2": "Timer und Zähler",
+        "3": "Schalter und Controller",
+        "4": "Servo- und Schrittmotoren",
+        "5": "AC / DC-Antriebe und Motoren",
+        "6": "Positioniersysteme",
+        "7": "Bewegungssensoren und Controller",
+        "8": "Lineare und Winkelbewegungsprodukte",
+        "9": "Stromkreisschutzgeräte",
+        "10": "Sicherheitsrelais"
+      }
     },
-    "About": {
-        "title": "Die Firma BLM International Mühendislik",
-        "subtitle": "Qualität, Sicherheit und ein gutes Preis-Leistungs-Verhältnis.",
-        "1": "Verfügbarkeit von Produkten und Ersatzteilen in der Branche relevanter Hersteller sowie für umfangreiches Wissen, das wir Ihnen in Zusammenhang mit Ihren Aufgabenstellungen im industriellen Umfeld zur Verfügung stellen.",
-        "2": "Unsere Tätigkeit umfasst das Hersteller unabhängige Beraten und Liefern industrieller Anlagentechnik, sowie eine Vielfalt an Ersatzteilen für diesen Bereich. Dabei reicht unser Erfahrungsschatz bis in die Entwicklungen von industriellen Lösungen.",
-        "3": "Aus unserer langjährigen Erfahrung und Expertise heraus kennen wir Ihren Bedarf und finden die technisch optimalste Lösung, so dass Sie Ihre Effizienz steigern und Kosten senken können."
-    },
-    "AboutFooter": {
-        "1": "BLM International Mühendislik spezialisiert sich auf die Lieferung von Ersatzteilen und Maschinen.",
-        "2": "Unsere Produkte sind für den Industriebereich in aller Welt.",
-        "3": "Bei uns erhalten Sie Ersatzteile oder Neuprodukte, je nach Bedarf.",
-        "4": "In unserem Sortimen finden Sie Hydraulik, Pneumatik oder Automatisierungsprodukte."
-    },
-    "Imprint": {
-        "address": "Adresse",
-        "contact": "Kontakt",
-        "opening": "Sie erreichen unseren Kundenservice montags bis freitags von 9:00 Uhr bis 18:00 Uhr.",
-        "director": "Geschäftsführung",
-        "programming": "Programmierung",
-        "country": "Türkei"
-    },
-    "Copyright": {
-        "1": "Alle Inhalte unterliegen unserem Copyright."
-    },
-    "Offertext": {
-        "1": "Angebot anfordern",
-        "2": "Jetzt anfragen"
-    },
-    "Teaser": {
-        "products": "Produktübersicht",
-        "brands": "Markenübersicht",
-        "imprint": "Impressum",
-        "about": "Über uns",
-        "contact": "Kontakt"
-    },
-    "Products": {
-        "title": "Unsere Produkte",
-        "brands": "Marken",
-        "hydraulics": "Hydraulikprodukte",
-        "pneumatics": "Pneumatikprodukte",
-        "automation": "Automatisierungsprodukte",
-        "motorspumps": "Motoren & Pumpen",
-        "motors": "Motoren",
-        "pumps": "Pumpen",
-        "examples": {
-            "hydraulics": {
-                "0": "Pumpen und Motoren",
-                "1": "Filter",
-                "2": "Zylinder und Ventile",
-                "3": "Stromversorgungseinheiten",
-                "4": "Marine- und Mobilhydrauliksysteme",
-                "5": "Vielfältige Systeme",
-                "6": "Akkumulatoren",
-                "7": "Schmiersysteme"
-            },
-            "pneumatics": {
-                "0": "Proportionalventile, Greifer",
-                "1": "Zylinder und Ventile",
-                "2": "Luftverstärker, Gasbooster",
-                "3": "Vibrationsförderer",
-                "4": "Flüssigkeitspumpen",
-                "5": "Fördersysteme",
-                "6": "Hochdruckarmaturen",
-                "7": "Magnetventile"
-            },
-            "automation": {
-                "0": "Sensoren",
-                "1": "Programmierbare Steuerungen",
-                "2": "Timer und Zähler",
-                "3": "Schalter und Controller",
-                "4": "Servo- und Schrittmotoren",
-                "5": "AC / DC-Antriebe und Motoren",
-                "6": "Positioniersysteme",
-                "7": "Bewegungssensoren und Controller",
-                "8": "Lineare und Winkelbewegungsprodukte",
-                "9": "Stromkreisschutzgeräte",
-                "10": "Sicherheitsrelais"
-            }
-        }
-    },
-    "Brandslider": {
-        "title": "Unsere Marken"
-    },
-    "ProductList": {
-        "title": "Produktliste",
-        "tableColumnProductSupplier": "Lieferant / Produkt"
-    },
-    "Partner": {
-        "title": "Offizieller Partner",
-        "text": "Offizieller Vertriebspartner in der Türkei für die Firma HESCH INDUSTRIETECHNIK GMBH."
-    },
-    "History": {
-        "title": "GESTRA Geschichte",
-        "subTitle": "Über 100 Jahre Gestra - Kopf für die Zukunft",
-        "text": "Das Industriezeitalter hatte gerade begonnen, als Gustav Friedrich Gerdts am 29. Oktober 1902 sein Unternehmen gründete. Er begann als junger Unbekannter ohne finanzielle Mittel, hatte aber viele neue Ideen.",
-        "targetsTitle": "Gustav Friedrich Gerdts entschied, dass die Ziele seines neuen Unternehmens sein müssen:",
-        "target1": "Optimierung der Dampf- und Energieeinsparung in der Industrie",
-        "target2": "Erhöhung der Betriebssicherheit",
-        "target3": "Effiziente Kondensatableitung",
-        "title2": "Ziele, die auch heute, über 100 Jahre später, höchste Priorität haben.",
-        "hierarchy": {
-            "1": {
-                "year": "1902",
-                "text": "Gründung der Firma in Bremen"
-            },
-            "2": {
-                "year": "1907",
-                "text": "Umbenennung in Gustav F. Gerdts KG"
-            },
-            "3": {
-                "year": "1951",
-                "text": "Gründung von Produktionsanlagen TECHNOVA"
-            },
-            "4": {
-                "year": "1956",
-                "text": "Gründung der ersten Tochtergesellschaft in Frankreich"
-            },
-            "5": {
-                "year": "1957",
-                "text": "Gründung der Tochtergesellschaft in Spanien"
-            },
-            "6": {
-                "year": "1961",
-                "text": "Gründung weiterer Tochtergesellschaften in England, Italien und Brasilien"
-            },
-            "7": {
-                "year": "1962",
-                "text": "Gustav F. Gerdts GmbH & Co. KG"
-            },
-            "8": {
-                "year": "1968",
-                "text": "GESTRA KSB Vertriebsgesellschaft"
-            },
-            "9": {
-                "year": "1976",
-                "text": "Gründung von GESTRA Inc. in den USA"
-            },
-            "10": {
-                "year": "1983",
-                "text": "Umwandlung in die GESTRA AG"
-            },
-            "11": {
-                "year": "1988",
-                "text": "Eingliederung in die SIEBE PLC."
-            },
-            "12": {
-                "year": "1994",
-                "text": "Gründung der UNIVAM GmbH"
-            },
-            "13": {
-                "year": "1995",
-                "text": "Gründung der P & W Ventil- und Regler-Service GmbH"
-            },
-            "14": {
-                "year": "1997",
-                "text": "Umwandlung in die GESTRA GmbH"
-            },
-            "15": {
-                "year": "1999",
-                "text": "GESTRA & INVENSYS plc."
-            },
-            "16": {
-                "year": "2002",
-                "text": "Eingliederung in FLOWSERVE"
-            },
-            "17": {
-                "year": "2004",
-                "text": "Umwandlung in die GESTRA AG"
-            },
-            "18": {
-                "year": "2017",
-                "text": "Eingliederung in Spirax Sarco Engineering plc."
-            }
-        }
+    "more": "Zu allen Produkten",
+    "moreButton": "Hier klicken"
+  },
+  "Brandslider": {
+    "title": "Unsere Marken"
+  },
+  "ProductList": {
+    "title": "Produktliste",
+    "tableColumnProductSupplier": "Lieferant / Produkt"
+  },
+  "Partner": {
+    "title": "Offizieller Partner",
+    "text": "Offizieller Vertriebspartner in der Türkei für die Firma HESCH INDUSTRIETECHNIK GMBH."
+  },
+  "History": {
+    "title": "GESTRA Geschichte",
+    "subTitle": "Über 100 Jahre Gestra - Kopf für die Zukunft",
+    "text": "Das Industriezeitalter hatte gerade begonnen, als Gustav Friedrich Gerdts am 29. Oktober 1902 sein Unternehmen gründete. Er begann als junger Unbekannter ohne finanzielle Mittel, hatte aber viele neue Ideen.",
+    "targetsTitle": "Gustav Friedrich Gerdts entschied, dass die Ziele seines neuen Unternehmens sein müssen:",
+    "target1": "Optimierung der Dampf- und Energieeinsparung in der Industrie",
+    "target2": "Erhöhung der Betriebssicherheit",
+    "target3": "Effiziente Kondensatableitung",
+    "title2": "Ziele, die auch heute, über 100 Jahre später, höchste Priorität haben.",
+    "hierarchy": {
+      "1": {
+        "year": "1902",
+        "text": "Gründung der Firma in Bremen"
+      },
+      "2": {
+        "year": "1907",
+        "text": "Umbenennung in Gustav F. Gerdts KG"
+      },
+      "3": {
+        "year": "1951",
+        "text": "Gründung von Produktionsanlagen TECHNOVA"
+      },
+      "4": {
+        "year": "1956",
+        "text": "Gründung der ersten Tochtergesellschaft in Frankreich"
+      },
+      "5": {
+        "year": "1957",
+        "text": "Gründung der Tochtergesellschaft in Spanien"
+      },
+      "6": {
+        "year": "1961",
+        "text": "Gründung weiterer Tochtergesellschaften in England, Italien und Brasilien"
+      },
+      "7": {
+        "year": "1962",
+        "text": "Gustav F. Gerdts GmbH & Co. KG"
+      },
+      "8": {
+        "year": "1968",
+        "text": "GESTRA KSB Vertriebsgesellschaft"
+      },
+      "9": {
+        "year": "1976",
+        "text": "Gründung von GESTRA Inc. in den USA"
+      },
+      "10": {
+        "year": "1983",
+        "text": "Umwandlung in die GESTRA AG"
+      },
+      "11": {
+        "year": "1988",
+        "text": "Eingliederung in die SIEBE PLC."
+      },
+      "12": {
+        "year": "1994",
+        "text": "Gründung der UNIVAM GmbH"
+      },
+      "13": {
+        "year": "1995",
+        "text": "Gründung der P & W Ventil- und Regler-Service GmbH"
+      },
+      "14": {
+        "year": "1997",
+        "text": "Umwandlung in die GESTRA GmbH"
+      },
+      "15": {
+        "year": "1999",
+        "text": "GESTRA & INVENSYS plc."
+      },
+      "16": {
+        "year": "2002",
+        "text": "Eingliederung in FLOWSERVE"
+      },
+      "17": {
+        "year": "2004",
+        "text": "Umwandlung in die GESTRA AG"
+      },
+      "18": {
+        "year": "2017",
+        "text": "Eingliederung in Spirax Sarco Engineering plc."
+      }
     }
+  }
 }
