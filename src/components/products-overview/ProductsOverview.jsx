@@ -22,9 +22,7 @@ function ProductsOverview() {
       </ProductWrapper>
       <MoreProductsWrapper>
         <MoreProductsTitle>{t('Products.more')}</MoreProductsTitle>
-        <ui5-button design='Emphasized'>
-          <MoreProductsLink href='https://blm-int.com' rel='noreferrer noopener' target='_blank'>{t('Products.moreButton')}</MoreProductsLink>
-        </ui5-button>
+        <MoreProductsLink href='https://blm-int.com' rel='noreferrer noopener' target='_blank'>{t('Products.moreButton')}</MoreProductsLink>
       </MoreProductsWrapper>
 
 

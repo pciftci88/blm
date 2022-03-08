@@ -51,12 +51,11 @@ class App extends React.Component {
               <ContactBlock />
             </React.Fragment>
           ) : (
-              <Header />
-            )}
+            <Header />
+          )}
           <ScrollToTop>
             <Switch>
               <Route exact path='/' component={Homepage} />
-              <Route exact path='/produkte' component={ProductOverview} />
               <Route exact path='/impressum' component={Impressum} />
               <Route exact path='/ueber-uns' component={About} />
               <Route exact path='/markenuebersicht' component={BrandsOverview} />

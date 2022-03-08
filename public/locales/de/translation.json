@@ -19,6 +19,11 @@
     "3": "Bei uns erhalten Sie Ersatzteile oder Neuprodukte, je nach Bedarf.",
     "4": "In unserem Sortimen finden Sie Hydraulik, Pneumatik oder Automatisierungsprodukte."
   },
+  "Links": {
+    "tel": "Telefon",
+    "general": "Allgemein",
+    "sales": "Sales"
+  },
   "Imprint": {
     "address": "Adresse",
     "contact": "Kontakt",

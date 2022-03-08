@@ -17,3 +17,7 @@ export const NamesParagraph = styled.p`
     display: flex;
     align-items: center;
 `;
+
+export const ContactLink = styled.a`
+    text-decoration: none;
+`;

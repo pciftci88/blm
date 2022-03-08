@@ -6,7 +6,7 @@ export const ProductBox = styled.div`
   align-items: center;
   padding: 15px;
 
-  @media(min-width: 768px) {
+  @media(min-width: 1020px) {
     min-width: 450px;
   }
 `;
@@ -52,9 +52,19 @@ export const MoreProductsWrapper = styled.div`
 export const MoreProductsLink = styled.a`
   color: #fff;
   text-decoration: none;
+  font-size: 20px;
+  padding: 12px 60px;
+  background-color: #0d6ed1;
+  border-radius: 3px;
+  border: 6px solid #ffc300;
+
+  @media(min-width: 1020px) {
+    font-size: 18px;
+    padding: 15px 90px;
+  }
 `;
 
 export const MoreProductsTitle = styled.h3`
-  font-size: 20px;
+  font-size: 22px;
   margin: 20px 0;
 `;

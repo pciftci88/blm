@@ -23,6 +23,11 @@ const logos = [
     "title": "Gestra"
   },
   {
+    "src": hauberLogo,
+    "alt": "Hauber Elektronik",
+    "title": "Hauber Elektronik"
+  },
+  {
     "src": dyniscoLogo,
     "alt": "Dynisco",
     "title": "Dynisco"
@@ -96,11 +101,6 @@ const logos = [
     "src": hydacVectorLogo,
     "alt": "Hydac Vector",
     "title": "Hydac Vector"
-  },
-  {
-    "src": hauberLogo,
-    "alt": "Hauber Elektronik",
-    "title": "Hauber Elektronik"
   }
 ];
 
