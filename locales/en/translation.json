@@ -19,6 +19,11 @@
     "3": "We can provide you with spare parts or new products, depending on your needs.",
     "4": "You will find hydraulics, pneumatics or automation products in our collection."
   },
+  "Links": {
+    "tel": "Telefone",
+    "general": "General",
+    "sales": "Sales"
+  },
   "Imprint": {
     "address": "Address",
     "contact": "Contact",

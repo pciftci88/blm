@@ -19,10 +19,16 @@
     "3": "İhtiyaçlarınıza bağlı olarak size yedek parça veya yeni ürünler sağlayabiliriz.",
     "4": "Ürün yelpazemizde hidrolik, pnömatik veya otomasyon ürünleri bulacaksınız."
   },
+  "Links": {
+    "tel": "Telefon",
+    "general": "Genel",
+    "sales": "Satış"
+  },
   "Imprint": {
     "address": "Adres",
     "contact": "Iletişim",
     "opening": "Çalışma Saatleri Pazartesi-Cuma 9:00 - 18:00.",
+    "country": "Türkiye",
     "director": "Şirket kurucusu",
     "programming": "Programlama"
   },
