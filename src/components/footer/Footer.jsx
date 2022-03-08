@@ -30,7 +30,7 @@ function Footer() {
         <FooterItem>
           <Title>{t('Imprint.address')}</Title>
           <Paragraph>
-            BGürselpaşa Mah.75717 Sok. No.2 A Blok Daire.23 Seyhan / ADANA<br />
+            Gürselpaşa Mah.75717 Sok. No.2 A Blok Daire.23 Seyhan / ADANA<br />
             {t('Imprint.country')}
           </Paragraph>
           <Paragraph>
