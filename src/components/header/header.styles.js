@@ -34,6 +34,7 @@ export const Navi = styled.div`
 export const NaviItem = styled(Link)`
     color: #777;
     text-decoration: none;
+    font-size: 16px;
 
     &:hover {
         color: #333;
