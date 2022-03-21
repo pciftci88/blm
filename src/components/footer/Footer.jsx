@@ -44,7 +44,6 @@ function Footer() {
           <HashRouter basename="/">
             <LinkWrapper>
               <FooterLink to='/'>{t('Nav.home')}</FooterLink>
-              <FooterLink to='/produkte'>{t('Nav.products')}</FooterLink>
               <FooterLink to='/markenuebersicht'>{t('Nav.brands')}</FooterLink>
               <FooterLink to='/impressum'>{t('Nav.imprint')}</FooterLink>
               <FooterLink to='/ueber-uns'>{t('Nav.about')}</FooterLink>
